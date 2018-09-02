@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 
-name: Draw
+title: Draw
 
 description: A basic 2d canvas graph library
