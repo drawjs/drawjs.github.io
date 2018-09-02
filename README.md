@@ -1,5 +1,5 @@
 <style>     
-  Hi, welcome to visit the official introduction of draw.js. However, this article may look strange because it's been used for generating official website by github jekyll themes. You can visit official website here: [drawjs.github.io](https://drawjs.github.io/).
+  Hi, welcome to visit the official introduction of draw.js. However, this article may look strange because it's been used for generating official website by github jekyll themes. You can visit official website here: https://drawjs.github.io.
 </style>     
 
 <style>     
