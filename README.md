@@ -18,6 +18,7 @@ Draw.js is a basic 2d canvas graph library, which is under development currently
 
 
 ## Get started
+### CDN
 Add following script into your HTML header 
 ```html
 <script src="https://drawjs.github.io/CDN/draw/draw.js"></script>
@@ -30,6 +31,19 @@ Then you can just use it
 ```js
 const canvas = document.getElementById( 'myCanvas' )
 const draw = window.Draw( canvas )
+```
+
+### NodeJS
+It also supports NodeJS use
+```bash
+npm install ts-draw --save-dev
+```
+```js
+require( 'ts-draw' )
+```
+or ES6
+```js
+import 'ts-draw'
 ```
 
 
