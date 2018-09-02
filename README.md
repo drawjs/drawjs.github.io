@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/drawjs/drawjs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+Draw.js is a basic 2d canvas graph library, which is under development currently.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Get started
+Add following script into your HTML header 
+```html
+<script src="https://drawjs.github.io/CDN/draw/draw.js"></script>
+```
+Add a canvas in html, like:
+```html
+<canvas id="myCanvas"></canvas>
+```
+Then you can just use it
+```js
+const canvas = document.getElementById( 'myCanvas' )
+const draw = window.Draw( canvas )
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drawjs/drawjs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Features
+### Creating an Element
+##### Shapes
+* Line
+* Polyline
 
-### Support or Contact
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/line/index.html"></iframe>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+* Rect
+
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/rect/index.html"></iframe>
+
+* Circle
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/circle/index.html"></iframe>
+
+* Polygon, Rounded Polygon
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/polygon/index.html"></iframe>
+
+
+
+Configure curve rate:
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/polygon-curve-rate/index.html"></iframe>
+
+
+
+##### Image
+
+
+##### Text
+
+
+
+### Dragging, Rotating and Sizing Element
+
+
+### Transforming Element with Segments and Handles
+
+### Selecting Element
+
+
+### Zooming and Panning Viewport
+
+
+
+
+### MiniMap
+
+### Exporting and Importing Data
+
+
+## Example
+### [Data-Sandboxie](https://drawjs.github.io/CDN/data-sandboxie/example/index.html)
+An interactive graph for multi-level data combination. Here is a [demo](https://drawjs.github.io/CDN/data-sandboxie/example/index.html).
+[![example image](https://drawjs.github.io/CDN/data-sandboxie/example.png)](https://drawjs.github.io/CDN/data-sandboxie/example/index.html)
+
+
+
+## Future
+Draw.js is still under development now. It will support more elements and more awesome features in the future. Let's look forward to it. And if you had any questions or advices, you could submit it in issues.
+
