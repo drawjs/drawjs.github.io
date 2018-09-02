@@ -33,7 +33,6 @@ const draw = window.Draw( canvas )
 
 
 * Rect
-
 <iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/rect/index.html"></iframe>
 
 * Circle
@@ -50,32 +49,47 @@ Configure curve rate:
 
 
 ##### Image
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/image/index.html"></iframe>
 
 
 ##### Text
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/text/index.html"></iframe>
 
 
 
 ### Dragging, Rotating and Sizing Element
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/draggingRotatingSizing/index.html"></iframe>
+
 
 
 ### Transforming Element with Segments and Handles
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/transforming/index.html"></iframe>
+
+
 
 ### Selecting Element
+Drag a selection area to select elements
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/selection/index.html"></iframe>
+
 
 
 ### Zooming and Panning Viewport
+Zoom
+: Scroll mouse to zoom in or zoom out
 
+Pan
+: Press `Space` or click mouse's center key to pan viewport
 
 
 
 ### MiniMap
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/miniMap/index.html"></iframe>
 
-### Exporting and Importing Data
+
 
 
 ## Example
-### [Data-Sandboxie](https://drawjs.github.io/CDN/data-sandboxie/example/index.html)
+### [Data-Sandboxie](https://github.com/drawjs/data-sandboxie)
 An interactive graph for multi-level data combination. Here is a [demo](https://drawjs.github.io/CDN/data-sandboxie/example/index.html).
 [![example image](https://drawjs.github.io/CDN/data-sandboxie/example.png)](https://drawjs.github.io/CDN/data-sandboxie/example/index.html)
 
@@ -84,3 +98,10 @@ An interactive graph for multi-level data combination. Here is a [demo](https://
 ## Future
 Draw.js is still under development now. It will support more elements and more awesome features in the future. Let's look forward to it. And if you had any questions or advices, you could submit it in issues.
 
+<style>
+iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+}
+</style>
