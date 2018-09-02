@@ -116,7 +116,7 @@ Pan
 
 ## Example
 ### [Data-Sandboxie](https://github.com/drawjs/data-sandboxie)
-An interactive graph for multi-level data combination. Here is a [demo](https://drawjs.github.io/CDN/data-sandboxie/example/index.html).
+An interactive graph for multi-level data combination, being used in company's commercial product. Here is a [demo](https://drawjs.github.io/CDN/data-sandboxie/example/index.html).
 [![example image](https://drawjs.github.io/CDN/data-sandboxie/example.png)](https://drawjs.github.io/CDN/data-sandboxie/example/index.html)
 
 
