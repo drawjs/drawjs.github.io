@@ -1,13 +1,15 @@
-<style>
+<style>  
   Hi, welcome to visit the official introduction of draw.js. However, this article may look strange because it's been used for generating official website by github jekyll themes. You can visit official website here: [drawjs.github.io](https://drawjs.github.io/).
-</style>
-<style>
+</style>  
+
+<style>  
 iframe {
   width: 100%;
   height: 300px;
   border: none;
 }
-</style>
+</style>  
+
 ## About
 Draw.js is a basic 2d canvas graph library, which is under development currently.
 
