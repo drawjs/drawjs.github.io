@@ -38,10 +38,11 @@ It also supports NodeJS use
 ```bash
 npm install ts-draw --save-dev
 ```
+Next import it with
 ```js
 require( 'ts-draw' )
 ```
-or ES6
+or
 ```js
 import 'ts-draw'
 ```
