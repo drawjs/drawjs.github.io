@@ -113,6 +113,10 @@ Pan
 
 
 
+### Exporting and Importing data
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/ExportingImportingData/index.html"></iframe>
+
+
 
 ## Example
 ### [Data-Sandboxie](https://github.com/drawjs/data-sandboxie)
