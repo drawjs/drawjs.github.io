@@ -54,47 +54,47 @@ import 'ts-draw'
 * Line
 * Polyline
 
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/line/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/line/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 * Rect
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/rect/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/rect/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 * Circle
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/circle/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/circle/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 * Polygon, Rounded Polygon
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/polygon/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/polygon/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
 Configure curve rate:
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/polygon-curve-rate/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/shape/polygon-curve-rate/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
 ##### Image
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/image/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/image/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 ##### Text
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/text/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/text/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
 ### Dragging, Rotating and Sizing Element
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/draggingRotatingSizing/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/draggingRotatingSizing/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
 ### Transforming Element with Segments and Handles
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/transforming/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/transforming/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
 ### Selecting Element
 Drag a selection area to select elements
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/selection/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/selection/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
@@ -108,12 +108,12 @@ Pan
 
 
 ### MiniMap
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/miniMap/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/miniMap/index.html?mode=js&defaultDataUrl=https://drawjs.github.io/CDN/iframes/drawExamples/sharedData.js"></iframe>
 
 
 
 ### Exporting and Importing data
-<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/ExportingImportingData/index.html?mode=js&defaultHTMLUrl=/CDN/iframes/drawExamples/sharedTemplate.html"></iframe>
+<iframe src="https://drawjs.github.io/CDN/iframes/drawExamples/ExportingImportingData/index.html?mode=js"></iframe>
 
 
 
