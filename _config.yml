@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+
+title: Draw
+
+description: A basic 2d canvas graph library
+
+baseurl: "https://drawjs.github.io"
